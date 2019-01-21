@@ -7,6 +7,6 @@ This page is for tracking the location of important parts.
 | Motor Controller- Spark  | 4 |
 | Motor Controller- Victor SP | 5 |
 | Motor Controller- Talon SRX | 4 |
-| Motor Controller- Vivtor SPX | 2 |
-| Spike Controller | 2 |
+| Motor Controller- Victor SPX | 2 |
+| Spike Controller | 4 |
 

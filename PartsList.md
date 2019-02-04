@@ -8,6 +8,7 @@ This page is for tracking the location of important parts.
 | Motor Controller- Victor SP | 5 |
 | Motor Controller- Talon SRX | 4 |
 | Motor Controller- Victor SPX | 2 |
+| Motor COntroller - Jaguar | 3 |
 | Spike Controller | 4 |
 
 

@@ -5,23 +5,23 @@ This page is for tracking the location of important parts.
 -------------------------- | ----- | ------ | --------------- | ------ |
 | Motor Controller- Talon SR | 6 |
 | Motor Controller- Spark  | 4 |
-| Motor Controller- Victor SP | 5 |4 on robot|
+| Motor Controller- Victor SP | 5 |4 |
 | Motor Controller- Talon SRX | 4 |
 | Motor Controller- Victor SPX | 2 |
 | Spike Controller | 4 |
-|air compersor |3|
+|air compressor |3|
 |air tanks |3|1|
-|12 volt soloinoids |6  |5 on robot|
-|2 phd clylenders |3|
+|12 volt solenoids |6|5|
+|2 phd cylinders |3|
 | bimbA shifters |4|4|
-| smc pistion |4 |
-|24 volt solinoid |4|
+| smc piston |4 |
+|24 volt solenoid |4|
 | phd 2 1/2 inch throw |1|
-|bimba large pistion|4| 4on robot|
+|bimba large position|4| 4|
 | 2 new gauges|
-|robo rio 2|1 on robot|
-|pdp2|1 on robot|
-|radios 3|1 on robot|
-|pcm 3|2 on robot|
-|vrm |1 on robot|
-|lignt 1| 1on robot|
+|robo rio |2|1|
+|pdp|2|1 |
+|radios |3|1 |
+|pcm |3|2 |
+|vrm |1|1 |
+|light |1| 1 |

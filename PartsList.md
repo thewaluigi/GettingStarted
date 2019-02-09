@@ -11,10 +11,10 @@ This page is for tracking the location of important parts.
 | Spike Controller | 4 |
 |air compersor |3|
 |air tanks |3|1|
-|12 volt soloinoids |2+4 new |5|
+|12 volt soloinoids |6  |5 on robot|
 |2 phd clylenders |3|
 | bimbA shifters |4|4|
-| smc pistion |2+2 new ones|
+| smc pistion |4 |
 |24 volt solinoid |4|
 | phd 2 1/2 inch throw |1|
 |bimba large pistion|4| 4on robot|

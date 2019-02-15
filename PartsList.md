@@ -18,10 +18,16 @@ This page is for tracking the location of important parts.
 |24 volt solenoid |4|
 | phd 2 1/2 inch throw |1|
 |bimba large position|4| 4|
-| gauges|2|2|
+| gauges|3|3|
 |Robo Rio |2|1|
 |PDP|2|1 |
 |radios |3|1 |
 |PCM|3|2 |
 |VRM|1|1 |
 |light |1| 1 |
+|camara|2 on robot|
+|ultrasonic sensor 1013 |1|
+|flow regulators|2|2|
+|pessure switch|1|1|
+|t conetetrs|17|13|
+|prv|1|1|

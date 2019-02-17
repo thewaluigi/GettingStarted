@@ -25,7 +25,7 @@ This page is for tracking the location of important parts.
 |PCM|3|2 |
 |VRM|1|1 |
 |light |1| 1 |
-|camara|2 on robot|
+|camara|2|2|
 |ultrasonic sensor 1013 |1|
 |flow regulators|2|2|
 |pessure switch|1|1|

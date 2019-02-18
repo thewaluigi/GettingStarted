@@ -29,7 +29,7 @@ This page is for tracking the location of important parts.
 |ultrasonic sensor 1013 |1|
 |flow regulators|2|2|
 |pessure switch|1|1|
-|t conetetrs|17|13|
+|t connecter|17|13|
 |prv|1|1|
 
 Note: Victor SP is same as Talon SRX https://www.ctr-electronics.com/downloads/pdf/Victor-SP-Talon-SRX-Info-Sheet.pdf

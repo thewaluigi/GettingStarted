@@ -10,7 +10,7 @@ This page is for tracking the location of important parts.
 | Motor Controller- Victor SPX | 2 |
 | Spike Controller | 4 |
 |air compressor |3|1|
-|air tanks |3|2|
+|air tanks |5|2|
 |12 volt solenoids |6|5|
 |2 phd cylinders |3|
 | bimba shifters |4|4|
